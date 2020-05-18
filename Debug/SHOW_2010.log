@@ -1,0 +1,10 @@
+﻿  cLoadScene.cpp
+c:\users\dudck\desktop\obb충~1\cloadscene.cpp(64): warning C4244: '=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dudck\desktop\obb충~1\cloadscene.cpp(65): warning C4244: '=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dudck\desktop\obb충~1\cloadscene.cpp(72): warning C4244: '=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dudck\desktop\obb충~1\cloadscene.cpp(73): warning C4244: '=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dudck\desktop\obb충~1\cloadscene.cpp(80): warning C4244: '=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dudck\desktop\obb충~1\cloadscene.cpp(81): warning C4244: '=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cPlayer.cpp
+  코드를 생성하고 있습니다...
+  SHOW_2010.vcxproj -> C:\Users\dudck\Desktop\OBB충~1\Debug\SHOW.exe
